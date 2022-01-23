@@ -3,6 +3,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
+			<!--meta element to define webpage scalability for different-sized browsers-->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>ITMD-361 Internet Technologies and Web Design</title>
 	</head>
